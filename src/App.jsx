@@ -81,7 +81,7 @@ function App() {
       <table>
         <thead>
           <tr>
-            <th>ID</th>
+            <th>ID </th>
             <th>Image</th>
             <th>Title</th>
             <th>Author</th>
