@@ -127,9 +127,9 @@ function App() {
         onChange={handleInputChange}
       />
       {editBook ? (
-        <button onClick={handleUpdateBook}>Update</button>
+        <button onClick={handleUpdateBook}>Update </button>
       ) : (
-        <button onClick={handleInputBook}>Create</button>
+        <button onClick={handleInputBook}>Create </button>
       )}
     </div>
   );
